@@ -1,5 +1,5 @@
 # FCU auto check in
-[![Run on Repl.it](https://repl.it/badge/github/ridemountainpig/fcu-auto-checkIn)](https://repl.it/github/ridemountainpig/fcu-auto-checkIn)
+[![Run on Repl.it](https://repl.it/badge/github/ridemountainpig/fcu-auto-checkIn?theme=light)](https://repl.it/github/ridemountainpig/fcu-auto-checkIn)
 
 A Python tool that FCU students can auto check in their courses at [Feng Chia University Check In System](https://signin.fcu.edu.tw/clockin/login.aspx).
 
